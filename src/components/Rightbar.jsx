@@ -43,7 +43,7 @@ const itemData = [
 const Rightbar = () => {
   return (
     <Box flex={2} p={2} sx={{ display: { xs: 'none', sm: 'block' } }}>
-      <Box position="fixed" width={350}>
+      <Box position="sticky" width={350}>
         <Typography variant="h6" fontWeight={100}>
           Online Friends
         </Typography>

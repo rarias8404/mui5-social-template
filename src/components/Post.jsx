@@ -33,7 +33,7 @@ const Post = () => {
       <CardMedia
         component="img"
         height="350px"
-        image="/assets/2.jpeg"
+        image="https://material-ui.com/static/images/cards/paella.jpg"
         alt="Paella dish"
       />
       <CardContent>
